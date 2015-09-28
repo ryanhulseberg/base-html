@@ -69,3 +69,7 @@ As your project grows and you need to add more styles just create new .scss file
 * <a href="http://sass-lang.com/">SASS</a>
 * <a href="http://necolas.github.com/normalize.css/">normalize.css</a>
 * <a href="http://fontawesome.io/">Font Awesome</a>
+
+## Credits ##
+* <a href="http://leemunroe.github.io/motherplate/example.html">Motherplate</a>
+* A bare bones responsive SCSS boilerplate for web designers.
