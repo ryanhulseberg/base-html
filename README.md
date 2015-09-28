@@ -75,4 +75,3 @@ retina.js is prepended to scripts.js and will handle all of your inline retina i
 
 ## Credits ##
 * <a href="http://leemunroe.github.io/motherplate/example.html">Motherplate</a>
-* A bare bones responsive SCSS boilerplate for web designers.
