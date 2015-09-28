@@ -1,4 +1,4 @@
-## What is this?
+## HTML Starting Point
 This is a bare bones HTML/CSS framework. This is what I'll typically start off most web projects with.
 
 It includes a CSS reset and a bunch of minimal styles that should come in useful for any project, including a responsive grid, typography, buttons, icons and forms.
