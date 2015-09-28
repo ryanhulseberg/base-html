@@ -61,6 +61,9 @@ As your project grows and you need to add more styles just create new .scss file
 * For images referenced in the CSS I tend to keep them in the css/assets/ folder e.g. sp.png is a sprite I can reference.
 * Images referenced in the HTML are stored in the /img folder.
 
+## Retina Images ##
+retina.js is prepended to scripts.js and will handle all of your inline retina image needs. You can learn more about it and how it works at http://retinajs.com/. There is also a mixin called retina-sprite that you can use to handle all of your retina images in CSS. Take a look at the mixin as you may have to change the path to the file as well as the background size to get it working.
+
 ## Fonts ##
 * Included font awesome for icons
 
